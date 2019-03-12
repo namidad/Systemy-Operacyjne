@@ -1,4 +1,4 @@
-# Systemy Operacyjne
+# Systemy Operacyjne - Projekt 3
 # Opis Projektu
 Zostając przy konwencji gier stworzymy projekt gry Pac-Man. Po planszy poruszać się będzie
 tytułowy Pac-Man, którego ścigać będą złe duszki. Nasza postać ma jedno życie. Na mapie
