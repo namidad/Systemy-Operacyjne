@@ -8,13 +8,18 @@ z duchem traci życie.
 
 # Zasoby
 Wektor – Pac-Man
+
 Wektor – złe duszki
+
 Wektor – białe kulki
+
 Wektor – kulki mocy
 
 # Wątki
 Wątek główny rysujący planszę
+
 Wątek poruszający Pac-Manem
+
 Wątek poruszający duchami
 
 # Kompilacja
